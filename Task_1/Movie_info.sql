@@ -1,0 +1,7 @@
+-- create table Movie_info(
+-- id int primary key auto_increment ,
+-- title varchar(50) not null ,
+-- released varchar(50),
+-- director varchar(50) not null,
+-- genre varchar(50)
+-- );
